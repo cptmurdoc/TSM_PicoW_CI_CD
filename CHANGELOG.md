@@ -1,5 +1,13 @@
 # CHANGELOG.md
 
+## v0.0.5
+Fixes:
+ - Test CI
+ - updated actions/checkout@v4 to actions/checkout@v5
+
+Features:
+ - No
+
 ## v0.0.4
 Fixes:
  - fixed LED test
